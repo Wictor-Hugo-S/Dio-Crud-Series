@@ -118,14 +118,9 @@ namespace Series
         {  
             Console.WriteLine("Digite o id da série ");
             int indiceSerie = int.Parse(Console.ReadLine());
-            try
-            {
+            
                 repositorio.Exclui(indiceSerie);
-            }
-            catch(IndexOutOfRangeException e)
-            {
-                Console.WriteLine($"Não há série com esse id  ser excluída {e}");
-            }
+            
 
               
         }
