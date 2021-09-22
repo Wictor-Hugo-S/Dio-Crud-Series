@@ -1,5 +1,8 @@
  #                                                  Dotnet Crud de séries
 # Projeto: 
-Uma Aplicação console desenvolvida, onde tem objetivo de simular um CRUD de séries com algumas opções, para fixar ainda mais o conhecimento de poo. Utilizando .Net no curso  da Digital Innovation One. 
-
-
+Uma Aplicação console de Crud com .NET do curso da Digital Innovation One.
+# Objetivo:
+Fixar o conhecimento em poo e entender mais os conceitos de classes e métodos.
+# Recursos utilizadas:
+Visual Studio(2019);
+.NET 5.0
